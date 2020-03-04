@@ -15,6 +15,14 @@ body {
     color: white;
 }
 
+.rank-image {
+    height: 3.75rem;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
 .wrapper {
     background-color: white;
     min-height: 100vh;
